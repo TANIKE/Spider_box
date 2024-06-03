@@ -1,4 +1,3 @@
-![image](https://github.com/TANIKE/Spider_box/assets/95958015/2b41809e-3b4f-495d-8ef1-7df0fb1bcd7e)# Spider_box
 This is a Quadruped Robot, it has a special case: a box.
 
 I made this project in 2021, when I was at highschool. I bring it here to store my little achievement.

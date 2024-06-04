@@ -10,6 +10,10 @@ In general: this image is the workflow of this project
 
   ![Biểu đồ không có tiêu đề](https://github.com/TANIKE/Spider_box/assets/95958015/1f9fd3c7-aded-40da-8f21-11fcf72cf305)
 
+           "main.ino" uploaded for Arduino Nano
+
+           "Control.ino" and "app_httpd.cpp" uploaded for ESP32-CAM
+
 A demo that I catched:
 
 https://github.com/TANIKE/Spider_box/assets/95958015/981ddfe8-6679-4f02-ac21-9a143f20d30d
